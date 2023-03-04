@@ -13,3 +13,14 @@
   font-weight: 600;
 }
 
+.incorrect {
+  border: 1px solid red;
+}
+
+.incorrect:focus {
+  border: 1px solid red;
+}
+
+.correct {
+  border: 2px solid black;
+}
